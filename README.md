@@ -1,1 +1,1 @@
-#write some diary or journal
+# write some diary or journal
